@@ -215,3 +215,7 @@ export const DetailsPage = () => {
 // https://raw.githubusercontent.com/total-typescript/typescript-generics-workshop/main/package.json
 // https://github.com/total-typescript/typescript-generics-workshop
 // https://github.com/total-typescript/typescript-generics-workshop.git
+
+// https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md#get
+// https://registry.npmjs.com/album-art/1.0.1
+// https://registry.npmjs.com/{package}/{version}
