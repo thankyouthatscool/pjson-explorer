@@ -1,0 +1,14 @@
+{
+  "name": "pjson-explorer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:thankyouthatscool/pjson-explorer.git",
+  "author": "OZahnitko",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "apps/*"
+    ]
+  }
+}
